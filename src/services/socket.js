@@ -1,6 +1,6 @@
 import { io } from 'socket.io-client';
 
-const SOCKET_URL =  'https://curier-server.onrender.com';
+const SOCKET_URL =  'https://curier-server.onrender.com/';
 
 class SocketService {
   constructor() {
