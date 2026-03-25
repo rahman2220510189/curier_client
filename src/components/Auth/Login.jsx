@@ -88,14 +88,7 @@ const Login = () => {
           </Link>
         </p>
 
-        <div className="mt-8 p-4 bg-gray-50 rounded-lg border border-gray-200">
-          <p className="text-sm text-gray-700 font-medium mb-2">Demo Credentials:</p>
-          <div className='grid grid-cols-2 text-xs text-gray-600 gap-1'>
-            <p><strong>Admin:</strong> admin@example.com</p><p>Pass: admin123</p>
-            <p><strong>Agent:</strong> agent@example.com</p><p>Pass: agent123</p>
-            <p><strong>Customer:</strong> customer@example.com</p><p>Pass: customer123</p>
-          </div>
-        </div>
+      
       </div>
     </div>
   );

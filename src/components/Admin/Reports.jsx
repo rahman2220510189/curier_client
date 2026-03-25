@@ -1,4 +1,3 @@
-// src/components/Admin/Reports.jsx
 import React, { useState, useEffect } from 'react';
 import { FileText, DollarSign, Download, BarChart2 } from 'lucide-react';
 import api from '../../services/api';
